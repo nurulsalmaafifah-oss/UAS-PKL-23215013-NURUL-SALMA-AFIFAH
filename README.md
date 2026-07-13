@@ -15,7 +15,7 @@ Sistem ini dibuat sebagai hasil Praktik Kerja Lapangan (PKL) di Dinas Perpustaka
 | Nama | NURUL SALMA AFIFAH |
 | NIM | 23215013 |
 | Program Studi | Teknik Informatika |
-| Perguruan Tinggi | STMIK YMI Tegal |
+| Perguruan Tinggi | UNIVERSITAS HARKAT NEGERI |
 | Tempat PKL | Dinas Perpustakaan dan Kearsipan Kabupaten Tegal |
 | Judul Sistem | PENDEKAR v2 (Penyimpanan Dokumen Elektronik Perkantoran) |
 
