@@ -1,0 +1,59 @@
+.list-filter-toolbar {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+}
+
+.list-filter-toolbar .form-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.list-filter-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.list-filter-count {
+  font-size: 0.875rem;
+  color: #6c757d;
+}
+
+.list-filter-count strong {
+  color: #212529;
+}
+
+.list-empty-state td {
+  padding: 2.5rem 1rem !important;
+  text-align: center;
+  color: #6c757d;
+}
+
+.list-empty-state i {
+  font-size: 2.5rem;
+  display: block;
+  margin-bottom: 0.5rem;
+  opacity: 0.5;
+}
+
+.list-pagination-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e9ecef;
+}
+
+.list-pagination-info {
+  font-size: 0.8125rem;
+  color: #6c757d;
+}
